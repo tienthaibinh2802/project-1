@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 cc
+=======
+33
+>>>>>>> TEST_ncdm_team2
